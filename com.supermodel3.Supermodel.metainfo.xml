@@ -24,7 +24,7 @@
   <url type="homepage">https://www.supermodel3.com</url>
   <launchable type="desktop-id">com.supermodel3.Supermodel.desktop</launchable>
   <releases>
-    <release version="0.3a-20260101-git-0d61fa1" date="2026-01-01"/>
+    <release version="0.3a-20260528-git-77d28ee" date="2026-05-28"/>
   </releases>
   <provides>
     <binary>supermodel</binary>
